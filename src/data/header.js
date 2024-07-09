@@ -83,8 +83,8 @@ export const searchKeyword = [
         src: "/search/sql"
     },
     {
-        title: "portfolio",
-        src: "/search/React Portfolio"
+        title: "Portfolio",
+        src: "/search/portfolio"
     },
     {
         title: "music",
